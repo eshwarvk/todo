@@ -23,7 +23,6 @@ That's it!
 
 ## Screenshot
 
-*(Optional — add a screenshot image of your app here!)*
 
 ![screenshot](Screenshot.png)
 
