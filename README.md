@@ -31,11 +31,11 @@ That's it!
 
 *(Optional — add a screenshot image of your app here!)*
 
-![screenshot](screenshot.png)
+![screenshot](screenshot)
 
 ---
 
 ## Author
 
 Eshwar
-[[Your GitHub profile](https://github.com/yourusername)](https://github.com/eshwarvk)
+(https://github.com/eshwarvk)
