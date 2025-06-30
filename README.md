@@ -14,18 +14,12 @@ It lets you add tasks, delete tasks, and persists your list using localStorage s
 
 1. Clone the repo:
     ```
-    git clone https://github.com/yourusername/todo-list.git
+    git clone https://github.com/eshwarvk/todo.git
     ```
 
 2. Open `index.html` in your browser.
 
 That's it!
-
-## Live Demo
-
-*(Optional — if you deploy to GitHub Pages, add your link here)*
-
-[Live Demo on GitHub Pages](https://yourusername.github.io/todo-list/)
 
 ## Screenshot
 
