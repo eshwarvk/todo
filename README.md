@@ -31,7 +31,7 @@ That's it!
 
 *(Optional — add a screenshot image of your app here!)*
 
-![screenshot](screenshot)
+![screenshot](Screenshot.png)
 
 ---
 
