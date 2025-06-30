@@ -37,5 +37,5 @@ That's it!
 
 ## Author
 
-Your Name  
-[Your GitHub profile](https://github.com/yourusername)
+Eshwar
+[[Your GitHub profile](https://github.com/yourusername)](https://github.com/eshwarvk)
